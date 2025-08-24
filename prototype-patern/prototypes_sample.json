@@ -1,0 +1,41 @@
+[
+  {
+    "registryKey": "resume-template-vidu",
+    "type": "Resume",
+    "candidateName": "Nguyen Van C",
+    "title": "Backend Engineer",
+    "content": "Objective: Build scalable services",
+    "experiences": [
+      "2 years at Startup Y",
+      "K8s, Spring Boot"
+    ],
+    "tags": [
+      "CV",
+      "Template"
+    ]
+  },
+  {
+    "registryKey": "report-q2-sample",
+    "type": "Report",
+    "author": "Team Z",
+    "title": "Quarterly Report Q2",
+    "content": "Key metrics and analysis...",
+    "pages": 12,
+    "tags": [
+      "Report",
+      "Finance"
+    ]
+  },
+  {
+    "registryKey": "invoice-demo-002",
+    "type": "Invoice",
+    "invoiceNumber": "INV-2025-002",
+    "title": "Design Services",
+    "content": "Invoice for design sprint",
+    "amount": 900.0,
+    "tags": [
+      "Invoice",
+      "Billing"
+    ]
+  }
+]
